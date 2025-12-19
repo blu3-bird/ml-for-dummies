@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,100:00c6ff&height=160&text=🦥ML%20I'm%20For%20Dummies🦥&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+</div>
 
-<h1 align="center">📚 ML for Dummies</h1>
 
 <p align="center">
   <em>A clean, beginner-friendly hub of ML practice notebooks, notes, and infographics.</em>
@@ -8,7 +10,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge">
 </p>
@@ -84,4 +85,6 @@ Suggestions are welcome — feel free to open an issue.
 If this repo helps you, drop a star ⭐ It keeps me motivated to learn more.
 
 ---
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling" alt="header"/>
+</div>
