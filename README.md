@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge">
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📝 Description
 This repository is my **personal machine learning study space**.  
@@ -28,7 +28,7 @@ It includes:
 
 Everything is written in a beginner-friendly style because I'm learning ML step-by-step.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📂 What’s Inside
 
@@ -44,17 +44,17 @@ Covers beginner-level ML topics like:
 
 *(No advanced deep learning or complex math — this repo focuses only on fundamentals.)*
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ### ✔️ Visual Infographics  
 NotebookLM-generated visuals that make concepts easier to digest.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ### ✔️ Learning Notes  
 Short, simple explanations rewritten in my own words while studying.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🎯 Purpose of This Repo
 This repo helps me:
@@ -66,7 +66,7 @@ This repo helps me:
 
 Perfect for beginners starting their ML journey.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📌 Future Plans
 - Better folder structure  
@@ -74,17 +74,18 @@ Perfect for beginners starting their ML journey.
 - Simple ML mini-projects  
 - Additional book-based summaries  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🤝 Contributions
 Suggestions are welcome — feel free to open an issue.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## ⭐ Support
 If this repo helps you, drop a star ⭐ It keeps me motivated to learn more.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling" alt="header"/>
 </div>
