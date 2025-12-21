@@ -1,0 +1,26 @@
+EmpID,Age,Gender,Education,Department,JobRole,Experience,Skills,City,MaritalStatus,PerformanceRating,TrainingHours,Salary
+E001,28,Male,Bachelor,Engineering,Developer,3,Python,Mumbai,Single,4,40,55000
+E002,35,Female,Master,Marketing,Manager,8,Excel,Delhi,Married,5,60,92000
+E003,NaN,Male,Bachelor,Sales,Executive,2,Communication,NaN,Single,3,25,42000
+E004,42,Female,PhD,Engineering,Senior Developer,12,Java,Bangalore,Married,5,NaN,125000
+E005,31,NaN,Master,HR,Recruiter,5,NaN,Mumbai,Single,4,35,65000
+E006,26,Male,Bachelor,Engineering,Developer,NaN,Python,Delhi,NaN,3,30,48000
+E007,38,Female,Master,Finance,Analyst,10,SQL,NaN,Married,4,50,88000
+E008,NaN,Male,Bachelor,Sales,Executive,3,Communication,Chennai,Single,NaN,28,45000
+E009,45,Female,PhD,Engineering,Tech Lead,15,Java,Bangalore,Married,5,70,145000
+E010,29,Male,Bachelor,Marketing,Executive,4,Excel,Mumbai,NaN,4,38,58000
+E011,33,NaN,Master,Finance,Senior Analyst,7,SQL,Delhi,Married,4,55,78000
+E012,27,Female,Bachelor,HR,NaN,2,Communication,Chennai,Single,3,22,40000
+E013,40,Male,Master,Engineering,Manager,NaN,Python,Bangalore,Married,5,65,115000
+E014,NaN,Female,Bachelor,Sales,Executive,3,Excel,Mumbai,Single,3,30,47000
+E015,36,Male,PhD,Engineering,Senior Developer,11,Java,NaN,Married,NaN,58,118000
+E016,24,Female,Bachelor,Marketing,Intern,1,NaN,Delhi,Single,3,20,32000
+E017,48,Male,Master,Finance,Manager,18,SQL,Chennai,Married,5,75,135000
+E018,30,NaN,Bachelor,HR,Recruiter,4,Communication,Mumbai,NaN,4,40,62000
+E019,34,Female,Master,Engineering,Developer,6,Python,Bangalore,Single,4,45,72000
+E020,NaN,Male,Bachelor,Sales,NaN,5,Excel,Delhi,Married,4,NaN,68000
+E021,41,Female,PhD,Finance,Senior Analyst,13,SQL,Chennai,Married,5,68,128000
+E022,25,Male,Bachelor,Marketing,Executive,2,Communication,NaN,Single,3,25,38000
+E023,37,Female,Master,HR,Manager,9,NaN,Mumbai,Married,NaN,52,95000
+E024,32,Male,Bachelor,Engineering,Developer,5,Java,Bangalore,Single,4,42,67000
+E025,NaN,Female,Master,Sales,Manager,10,Excel,Delhi,Married,5,60,105000
