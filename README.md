@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,100:00c6ff&height=160&text=🦥ML%20For%20Dummies🦥&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </div>
 
+
+
 <p align="center">
   <em>A clean, beginner-friendly hub of ML practice notebooks, templates, notes, and infographics.</em>
 </p>
@@ -69,6 +71,17 @@ Each template includes:
 Perfect for practicing the same pipeline on multiple datasets.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## ✨ Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ### ✔️ Learning Notes (NEW)
 A new section dedicated to handwritten-style ML notes.
