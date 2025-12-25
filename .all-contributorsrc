@@ -3,28 +3,24 @@
   "projectOwner": "blu3-bird",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "skipCi": true,
   "contributors": [
     {
       "login": "blu3-bird",
       "name": "blu3-bird",
-      "avatar_url": "https://avatars.githubusercontent.com/u/000000?v=4",
+      "avatar_url": "https://github.com/blu3-bird.png",
       "profile": "https://github.com/blu3-bird",
       "contributions": [
         "code",
         "doc",
         "ideas",
-        "content",
-        "review"
+        "content"
       ]
     }
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": true,
-  "commitType": "docs"
+  ]
 }
