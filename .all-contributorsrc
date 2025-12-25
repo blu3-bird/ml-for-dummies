@@ -19,10 +19,12 @@
         "code",
         "doc",
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs"
 }
