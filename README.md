@@ -153,6 +153,62 @@ Ideal for absolute beginners trying to understand ML slowly.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+## 🤝 How to Contribute?
+
+I will be happy to receive any suggestions and help from the community! Here is a simple guide for those who want to contribute to this project.
+
+### 🚀 Start with a discussion
+1. **View existing Issues**: Go to [Issues section](https://github.com/blu3-bird/ml-for-dummies/issues ) and see what you need help with.
+2. **Create a new Issue**: If you have any ideas, you can create a new Issue and describe it:
+    * What do you want to add or change (for example, "Bug fix", "Typo correction in notes")
+* Why it will be useful for the project
+    * (If you want) Suggest your implementation plan
+
+
+### 🛠️ The process of making changes
+If you are ready to start coding or editing the documentation, follow these steps.:
+
+1. **Fork the repository**: Click the "Fork" button in the upper-right corner of this page to create your own copy of the project.
+2. **Clone your fork**: Copy your fork to your local computer.
+    ```bash
+    git clone https://github.com/your-login/ml-for-dummies
+    cd ml-for-dummies
+    ```
+3. **Create a new branch**: Create a new branch for your changes. It helps to organize the work.
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+4. **Make your changes**: Make necessary edits to the code, notes, or documentation. Please adhere to the general style of the project.
+5. **Commit your changes**: Add and commit your changes with a clear message.
+    ```bash
+    git add .
+    git commit -m "Added: [summary of changes]"
+    ``
+6. **Submit changes (Push to your fork)**: Submit your branch to your fork on GitHub.
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+7. **Create a Pull Request (Open a Pull Request - PR)**:
+    *   Go to your fork's GitHub page.
+    * You will see a suggestion to create a Pull Request for your new branch. Click on it.
+    * Fill in the Pull Request template:
+* **Name:** Briefly describe the changes.
+        * **Description:** Describe in detail what was done and why. If possible, specify the number of the associated Issue (for example, `Closes #10`).
+        * Make sure that the "Allow edits from maintainers" box is checked.
+
+
+### ✅ What can be improved?
+Excellent tasks for the first contribution:
+* Correcting typos in documentation or notebooks.
+* Improved descriptions in existing templates.
+* Translation of the README or comments into other languages.
+* Offering a new theme for visual infographics.
+* Adding a simple example of using an existing template.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+
 ## 🤝 Contributions
 Suggestions are welcome — feel free to open an issue or share ideas for templates/notes.
 
