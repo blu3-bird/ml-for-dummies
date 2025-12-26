@@ -3,7 +3,9 @@
   "projectOwner": "blu3-bird",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
@@ -21,6 +23,17 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "xlebovoz",
+      "name": "XLEB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189365255?v=4",
+      "profile": "https://xlebovoz-links.vercel.app/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
-  ]
+  ],
+  "commitType": "docs"
 }
