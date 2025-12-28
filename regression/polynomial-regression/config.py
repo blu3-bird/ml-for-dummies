@@ -20,3 +20,5 @@ HORSE_POWER = DATASETS_DIR / 'horse-power.csv'
 TEMP_POWER_USAGE = DATASETS_DIR / 'temp_power_usage.csv'
 
 POSITION_SALARIES = DATASETS_DIR / 'Position_Salaries.csv'
+
+TEMP_AND_ICE = DATASETS_DIR / 'temp_and_ice.csv'
