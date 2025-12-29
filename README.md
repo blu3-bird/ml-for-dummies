@@ -83,6 +83,7 @@ Perfect for practicing the same pipeline on multiple datasets.
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/blu3-bird"><img src="https://github.com/blu3-bird.png?s=100" width="100px;" alt="blu3-bird"/><br /><sub><b>blu3-bird</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=blu3-bird" title="Code">💻</a> <a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=blu3-bird" title="Documentation">📖</a> <a href="#ideas-blu3-bird" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-blu3-bird" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://xlebovoz-links.vercel.app/"><img src="https://avatars.githubusercontent.com/u/189365255?v=4?s=100" width="100px;" alt="XLEB"/><br /><sub><b>XLEB</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=xlebovoz" title="Code">💻</a> <a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=xlebovoz" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://sindhuv.vercel.app/"><img src="https://avatars.githubusercontent.com/u/166407139?v=4?s=100" width="100px;" alt="Sindhu"/><br /><sub><b>Sindhu</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=Sindhuu-B" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Abhi-2516"><img src="https://avatars.githubusercontent.com/u/127724654?v=4?s=100" width="100px;" alt="Abhishek Yadav"/><br /><sub><b>Abhishek Yadav</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=Abhi-2516" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
@@ -95,7 +96,7 @@ Perfect for practicing the same pipeline on multiple datasets.
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
