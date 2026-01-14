@@ -51,6 +51,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "levnorth",
+      "name": "Levi Perry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158174285?v=4",
+      "profile": "https://github.com/levnorth",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitType": "docs"
