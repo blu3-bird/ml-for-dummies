@@ -12,4 +12,4 @@ DATASETS_DIR = PROJECT_ROOT / 'practiceDatasets'
 NOTEBOOK_DIR = PROJECT_ROOT / 'practiceExercises'
 
 DS1 = DATASETS_DIR / 'ds1.csv'
-# print(f'hoipardeep {PROJECT_ROOT}')
+EXPERIENCE_SALARY = DATASETS_DIR / 'experience_salary.csv'
