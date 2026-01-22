@@ -86,6 +86,7 @@ Perfect for practicing the same pipeline on multiple datasets.
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Abhi-2516"><img src="https://avatars.githubusercontent.com/u/127724654?v=4?s=100" width="100px;" alt="Abhishek Yadav"/><br /><sub><b>Abhishek Yadav</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=Abhi-2516" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/levnorth"><img src="https://avatars.githubusercontent.com/u/158174285?v=4?s=100" width="100px;" alt="Levi Perry"/><br /><sub><b>Levi Perry</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=levnorth" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/codewithzubair07"><img src="https://avatars.githubusercontent.com/u/212202619?v=4?s=100" width="100px;" alt="zubair Quraishi"/><br /><sub><b>zubair Quraishi</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=codewithzubair07" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sakshikirmathe"><img src="https://avatars.githubusercontent.com/u/97237953?v=4?s=100" width="100px;" alt="Sakshi Kirmathe"/><br /><sub><b>Sakshi Kirmathe</b></sub></a><br /><a href="https://github.com/blu3-bird/ml-for-dummies/commits?author=sakshikirmathe" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
@@ -98,7 +99,7 @@ Perfect for practicing the same pipeline on multiple datasets.
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
