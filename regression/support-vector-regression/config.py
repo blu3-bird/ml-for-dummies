@@ -13,3 +13,4 @@ NOTEBOOK_DIR = PROJECT_ROOT / 'practiceExercises'
 
 DS1 = DATASETS_DIR / 'ds1.csv'
 EXPERIENCE_SALARY = DATASETS_DIR / 'experience_salary.csv'
+DS02 = DATASETS_DIR / 'ds02.csv'
