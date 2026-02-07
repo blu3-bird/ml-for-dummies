@@ -9,3 +9,4 @@ DATASETS_DIR = PROJECT_ROOT / 'practiceDatasets'
 NOTEBOOK_DIR = PROJECT_ROOT / 'practiceExercises'
 
 DT = DATASETS_DIR / 'dt.csv'
+DT2_FEATURE_IMPORTANCES = DATASETS_DIR / 'dt2-feature-importances.csv'
