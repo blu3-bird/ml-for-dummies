@@ -28,3 +28,5 @@ STUDENT_STUDY = DATASETS_DIR / 'student_study.csv'
 
 WEBSITE_REVENUE = DATASETS_DIR / 'website-revenue.csv'
 
+S_LN = DATASETS_DIR / 's-ln.csv'
+
