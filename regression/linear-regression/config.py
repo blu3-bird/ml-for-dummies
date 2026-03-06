@@ -30,3 +30,5 @@ WEBSITE_REVENUE = DATASETS_DIR / 'website-revenue.csv'
 
 S_LN = DATASETS_DIR / 's-ln.csv'
 
+LN_P = DATASETS_DIR / 'ln-p.csv'
+
