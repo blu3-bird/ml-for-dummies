@@ -4,7 +4,7 @@ fonttools==4.62.1
 joblib==1.5.3
 kiwisolver==1.5.0
 matplotlib==3.10.8
-numpy==2.4.4
+numpy==2.4.3
 packaging==26.0
 pandas==3.0.1
 pillow==12.1.1
