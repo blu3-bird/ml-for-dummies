@@ -10,7 +10,7 @@ pandas==3.0.3
 pillow==12.3.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
-pytz==2026.2
+pytz==2026.3.post1
 scikit-learn==1.9.0
 scipy==1.17.1
 six==1.17.0
