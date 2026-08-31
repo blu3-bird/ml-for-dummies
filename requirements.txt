@@ -12,7 +12,7 @@ pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 pytz==2026.3.post1
 scikit-learn==1.9.0
-scipy==1.18.0
+scipy==1.18.1
 six==1.17.0
 threadpoolctl==3.6.0
 tzdata==2026.2
